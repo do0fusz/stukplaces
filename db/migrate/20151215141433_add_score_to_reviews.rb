@@ -3,3 +3,4 @@ class AddScoreToReviews < ActiveRecord::Migration
     add_column :reviews, :score, :integer, default: 0 
   end
 end
+§
